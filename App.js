@@ -1,3 +1,5 @@
+// Miguel Francisco da Silva Sales, Pedro de Petta Zocatelli e Victor Luiz Koba Batista
+
 import React, { useEffect, useState, useRef } from 'react';
 import { View, Text, StyleSheet, Animated, Easing, Image } from 'react-native';
 import * as Location from 'expo-location';
